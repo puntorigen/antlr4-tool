@@ -29,14 +29,14 @@
   ],
   "license": "ISC",
   "dependencies": {
-    "@types/antlr4": "^4.7.0",
-    "antlr4": "^4.8.0",
+    "@types/antlr4": "^4.11.2",
+    "antlr4": "^4.13.0",
     "chalk": "^2.4.1",
     "chdir": "0.0.0",
     "commander": "^2.16.0",
-    "directory-exists": "^2.0.0",
+    "directory-exists": "^2.0.1",
     "ejs": "^2.6.1",
-    "find-package-json": "^1.1.0",
+    "find-package-json": "^1.2.0",
     "lodash": "^4.17.10",
     "mkdir-recursive": "^0.4.0",
     "node-eval": "^2.0.0",
@@ -44,11 +44,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mcchatman8009/antlr4-tool"
+    "url": "https://github.com/puntorigen/antlr4-tool"
   },
   "author": {
-    "name": "Marlon Chatman",
-    "email": "mcchatman8009@gmail.com"
+    "name": "Pablo Schaffner",
+    "email": "pablo@puntorigen.com"
   },
   "resolutions": {
     "minimist": "^1.2.5"
